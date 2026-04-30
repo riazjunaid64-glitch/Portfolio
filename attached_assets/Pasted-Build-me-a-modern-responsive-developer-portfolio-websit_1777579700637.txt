@@ -1,0 +1,93 @@
+Build me a modern, responsive developer portfolio website using React (frontend only, no backend).
+
+Requirements:
+
+1. Overall Design:
+- Clean, modern UI with smooth animations
+- Use a professional color scheme (dark or dark + accent)
+- Fully responsive (mobile, tablet, desktop)
+- Use modern UI/UX practices
+- Add subtle transitions and hover effects
+- Use a professional font (like Inter or Poppins)
+
+2. Navigation (Tabbed Layout or Navbar):
+Create the following sections:
+
+- About Me
+- Skills
+- Experience
+- Social / Links
+- Resume
+
+3. About Me Section:
+- Placeholder for profile image (I will add later)
+- Short professional intro
+- Mention 1.5+ years experience
+- Clean layout with text + image
+
+4. Skills Section:
+Group skills cleanly:
+
+- Backend: .NET Web API
+- Frontend: Angular, React
+- Other: jQuery
+
+Display as cards or badges with icons if possible.
+
+5. Experience Section:
+Add structured experience cards:
+
+- Techlogics
+- Arfa Tech
+- Ezilon (Internship)
+
+Each card should include:
+- Company name
+- Role (placeholder)
+- Duration (placeholder)
+- Short description (placeholder)
+
+6. Projects Section:
+- Add 3 project cards (placeholder)
+- Each with title, description, and button
+
+7. Social / Links Section:
+Include clickable icons/links:
+
+GitHub:
+https://github.com/riazjunaid64-glitch
+
+LinkedIn:
+https://www.linkedin.com/in/junaid-riaz-8967b13a9/
+
+Make them styled as modern buttons or cards.
+
+8. Resume Section:
+- Add a “Download Resume” button (placeholder link)
+
+9. WhatsApp Contact Button:
+- Floating WhatsApp icon (bottom corner)
+- On click, open:
+https://wa.me/923018809431
+
+10. Animations:
+- Use smooth animations (Framer Motion or CSS animations)
+- Animate sections on scroll
+- Add hover effects on cards and buttons
+
+11. Code Structure:
+- Clean and well-structured React components
+- Separate components for each section
+- Use functional components
+
+12. Styling:
+- Use Tailwind CSS or modern CSS
+- Keep design minimal but premium
+
+13. Important:
+- No backend
+- No authentication
+- No database
+
+Goal:
+Create a professional, modern, visually appealing portfolio suitable for a developer with 1.5 years of experience.
